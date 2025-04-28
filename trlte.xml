@@ -53,11 +53,12 @@
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-18.1" />
   <project name="LineageOS/android_system_tools_dtbtool" remote="github" path="system/tools/dtbtool" revision="lineage-18.1"/>
-  <project name="apq8084/android_device_qcom_sepolicy" path="device/qcom/sepolicy-legacy" remote="github" groups="qcom,pdk-qcom" revision="lineage-19.1-legacy" />
-  <project name="apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-19.1" />
-  <project name="apq8084/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-19.1" />
-  <project name="apq8084/android_hardware_qcom_display" path="hardware/qcom-caf/apq8084/display" groups="pdk-qcom,qcom,qcom_display" revision="lineage-19.1-caf-apq8084" />
-  <project name="apq8084/android_hardware_qcom_media" path="hardware/qcom-caf/apq8084/media" groups="pdk-qcom,qcom,qcom_media" revision="lineage-19.1-caf-apq8084" />
-  <project name="apq8084/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="lineage-19.1" />
-  <project name="apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-19.1" />
+  <project name="salih4187/android_device_qcom_sepolicy" path="device/qcom/sepolicy-legacy" remote="github" groups="qcom,pdk-qcom" revision="lineage-19.1-legacy" />
+  <project name="salih4187/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-19.1" />
+  <project name="salih4187/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-19.1" />
+  <project name="salih4187/android_hardware_qcom_display" path="hardware/qcom-caf/apq8084/display" groups="pdk-qcom,qcom,qcom_display" revision="lineage-19.1-caf-apq8084" />
+  <project name="salih4187/android_hardware_qcom_media" path="hardware/qcom-caf/apq8084/media" groups="pdk-qcom,qcom,qcom_media" revision="lineage-19.1-caf-apq8084" />
+  <project name="salih4187/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="lineage-19.1" />
+  <project name="salih4187/android_vendor_samsung_trlte" path="vendor/samsung/trlte" remote="github" revision="lineage-19.1" />
+  <project name="salih4187/android_vendor_samsung_trlte-common" path="vendor/samsung/trlte-common" remote="github" revision="lineage-19.1" />
 </manifest>
